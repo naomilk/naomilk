@@ -6,8 +6,7 @@ Welcome to my Github profile. My name is Naomi and I am a **Junior Web Developer
 
 In August 2021 I decided to make the jump from being a qualified accountant into the vast world of the tech industry.
 I started out by firstly engaging in a **Full-Stack Development course** by Codecademy to hone some basic web development skills. 
-I have now studied and practised using basic/intermediate JavaScript, but what a ride it has been! I'm very excited to further my skills and to next build on my current
-HTML and CSS skills. 
+I have now studied and practised using intermediate JavaScript, as well as HTML and CSS to create basic web-pages. I'm very excited to further my skills and to next build on my current knowledge with new challenges like libraries, such as Vue and React.
 
 > The most difficult thing is the decision to act, the rest is merely tenacity - Amelia Earhart
 
