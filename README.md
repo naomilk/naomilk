@@ -1,14 +1,13 @@
 # Introduction
 
-Welcome to my Github profile. My name is Naomi and I am a **Junior Web Developer** at Yawt Digital.
+Welcome to my Github profile. My name is Naomi and I am a **Frontend Developer**.
 
 # Career
 
-In August 2021 I decided to make the jump from being a qualified accountant into the vast world of the tech industry.
+In August 2021 I decided to make the jump from being a qualified accountant into the vast world of web development.
 I started out by firstly engaging in a **Full-Stack Development course** by Codecademy to hone some basic web development skills. 
-I have now studied and practised using intermediate JavaScript, as well as HTML and CSS to create basic web-pages. I'm very excited to further my skills and to next build on my current knowledge with new challenges like libraries, such as Vue and React.
-
-> The most difficult thing is the decision to act, the rest is merely tenacity - Amelia Earhart
+I have now build multiple web applications using frameworks like Next.js and CSS libraries like TailwindCSS and Bootstrap. 
+I have also build multiple sites using WordPress for the backend and HTML, CSS (Sass/Bootstrap), JavaScript and PHP for the frontend.
 
 
 <!---
